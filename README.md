@@ -1,4 +1,4 @@
-# Hi 👋, I'm Rayane Rahmat Errahmane SMARA
+# Hi, I'm Rayane Rahmat Errahmane SMARA
 
 ## Computer Science Engineering Student
 
