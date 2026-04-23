@@ -87,13 +87,3 @@ I combine technical expertise with analytical thinking, research curiosity, user
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rayanesmr&show_icons=true&locale=en&layout=compact" alt="rayanesmr" /></p>
 
-### 🧰 Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f6e56,100:1D9E75&height=100&section=footer" />
-</div>
