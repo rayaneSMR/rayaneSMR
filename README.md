@@ -2,7 +2,7 @@
 
 ## Computer Science Engineering Student
 
-I'm a 4th-year Computer Science Engineering student at École Nationale Supérieure d’Informatique (ESI Algiers), specializing in Intelligent Systems and Data. I'm passionate about AI, machine learning, optimization, and research-driven problem solving. With a strong background in frontend engineering, UI/UX design, and data-driven application development, I focus on building accessible, high-performance user interfaces and integrating AI/ML models into real-world systems.
+I'm a 5th-year Computer Science Engineering student at École Nationale Supérieure d’Informatique (ESI Algiers), specializing in Intelligent Systems and Data. I'm passionate about AI, machine learning, optimization, and research-driven problem solving. With a strong background in software enginnering, UI/UX design, and data-driven application development, I focus on building accessible, high-performance user interfaces and integrating AI/ML models into real-world systems.
 
 I combine technical expertise with analytical thinking, research curiosity, user-centered design, and collaborative teamwork. I'm recognized for my resilience, ownership, adaptability, and ability to transform complex ideas into clean, maintainable, and impactful digital solutions.
 
